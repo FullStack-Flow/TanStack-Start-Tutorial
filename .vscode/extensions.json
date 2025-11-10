@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "humao.rest-client",
+    "pkief.material-icon-theme",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-next",
+    "biomejs.biome",
+    "davidanson.vscode-markdownlint",
+  ],
+  "unwantedRecommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+  ]
+}
